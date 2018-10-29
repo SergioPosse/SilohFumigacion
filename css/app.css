@@ -1,0 +1,79 @@
+
+.modalchico { width: 275px !important ; max-height: 350px !important ;}  /* increase the width, height and prevent vertical scroll! However, i don't recommend this, its better to turn on vertical scrolling. */
+
+
+#modal_reactivar{
+    width:100px;
+    height:auto;
+}
+#modal_editar_tarea{
+    width:580px;
+    height:auto;
+}
+#cuerpo,#tablita{
+	overflow:auto;
+}
+
+#slide-out li p{
+	color:black;
+}
+#slide-out{
+		background-color: white;
+		opacity: 10px;
+}
+
+.divider{
+	margin:10px;
+}
+#nav-mobile li{
+	margin-left:30px;
+	margin-right:30px;
+}
+nav, #nav-wrapper{
+	height:70px;
+	background-color: black;
+}
+
+
+.retraso1{
+	animation-delay:2s;
+	-moz-animation-delay:2s;
+	-webkit-animation-delay:2s;
+}
+.retraso2{
+	animation-delay:3s;
+	-moz-animation-delay:3s;
+	-webkit-animation-delay:3s;
+}
+.retraso3{
+	animation-delay:5s;
+	-moz-animation-delay:5s;
+	-webkit-animation-delay:5s;
+}
+
+.site-footer p{
+	font-size:15px;
+	padding:10px;
+	background-color: black;
+	height:50px;
+	text-align:center;
+	color: white;
+	margin-bottom:10px;
+}
+.brand-logo p{
+	font-family: bb;
+	margin-top:-2px;
+}
+#btn_nueva_tarea{
+margin-top:10px;
+}
+
+#intro2{
+	margin-left:20px;
+}
+#intro3{
+	margin-left:40px;
+}
+#intro{
+	margin-left:-10px;
+}
