@@ -542,7 +542,7 @@ else{
                                     echo $_SESSION['usuario'];
                                 }
                                 else{
-                                    echo "<a href='../login.php'>Iniciar Sesion</a>";
+                                    echo "<a href='../index.php'>Iniciar Sesion</a>";
                                 }
                                ?>
                                </p>

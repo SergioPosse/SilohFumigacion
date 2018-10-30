@@ -1,0 +1,12 @@
+db_name= siloh
+user= root
+pass= ""
+
+Usuarios predefinidos:
+User: Administrador
+pass: admin
+
+User: Empleado
+pass: empleado
+
+**Haciendo doble click sobre una tarea en la tabla se ejecutan diferentes acciones dependiendo el estado de la misma
